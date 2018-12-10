@@ -1,3 +1,8 @@
+---
+title: xamarin questions
+date: 2018-12-10
+---
+
 # Xamarin 常见问题
 
 ###  `StaticResource` 与 `DynamicResource` 的区别
