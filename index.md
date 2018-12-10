@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to Kalib.Gao's Blog
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. 
+This is my first created home page tutorial. Thank you for your kind remindings.
